@@ -1,3 +1,3 @@
 ## Pier Programming Project 
 
-# HI!!
+# Hi!!
